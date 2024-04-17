@@ -1,0 +1,20 @@
+{
+  "name": "gas-optimization-tools",
+  "version": "1.0.0", 
+  "description": "Gas Optimization Tools is a JavaScript package designed to help optimize gas usage for Ethereum transactions. This package provides a method to estimate gas prices, which can be useful for developers looking to minimize transaction costs and improve efficiency in their dApps",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bombaskin/gas-optimization-tools.git"
+  },
+  "keywords": [
+    "", 
+    "",
+    ""
+  ],
+  "author": "bombaskin",
+  "license": "MIT"
+}
